@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="244cfda6-f610-46f5-9a49-ed916111ae35" name="school_web_server">
+        <fileTransfer rootFolder="/home/0967520-5" accessType="SFTP" host="std.puiching.edu.mo" port="22" sshConfigId="bcc6d54c-4a76-4962-b0a8-764eb77bfd5f" sshConfig="0967520-5@std.puiching.edu.mo:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
